@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "servers": [
+    "https://hfzy-makro-sync.hfzy-apps.workers.dev"
+  ],
+  "enabled": true,
+  "minAppVersion": "1.4.0",
+  "signedAt": "2026-09-28T09:03:38.117Z"
+}
